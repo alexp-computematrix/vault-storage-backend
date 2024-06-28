@@ -1,2 +1,2 @@
-# vault-storage-backend
+# Vault Storage Backend
 HashiCorp Vault storage backend configurations.
